@@ -1,71 +1,74 @@
-Universidade de Brasília
+---
+title: "Edifícios Históricos de Planaltina: O Paço Municipal"
+subtitle: "ProIC -- Programa de Iniciação Científica"
+open_graph: planaltina_camara/media/image1.png
+author:
+- name: Daniel Bruno Vieira de Melo
+  affiliation: >
+    Graduando em Arquitetura e Urbanismo pela Universidade de Brasília e
+    bolsista pelo CNPq.
+contributor:
+- name: Pedro Paulo Palazzo
+  affiliation: >
+    Professor Adjunto do Departamento de Teoria e História da
+    Arquitetura e Urbanismo da Universidade de Brasília.
+date: "Brasília, 2013"
+abstract: |
+  Esta pesquisa intenciona documentar e reconstituir a
+  história do antigo Paço Municipal -- Casa de Câmara e Cadeia, um marco
+  da arquitetura neoclássica de Planaltina, inaugurado em 1932, atual Casa
+  do Artesão. Objetiva também avaliar preliminarmente o estado de
+  conservação desse edifício.
+keywords:
+- Casa de Câmara e Cadeia
+- Paço Municipal
+- Arquitetura Neoclássica
+- Art Déco
+- Planaltina
+- Neocolonial
+---
 
-Faculdade de Arquitetura e Urbanismo
-
-ProIC -- Programa de Iniciação Científica
-
-**Edifícios Históricos de Planaltina\
-**[O Paço Municipal]{.underline}
-
-![](planaltina_camara/media/image1.png){width="4.322916666666667in"
-height="3.2432425634295714in"}[^1]
-
-Daniel Bruno Vieira de Melo[^2]
-
-Orientador: Prof. Pedro Paulo Palazzo[^3]
-
-Brasília, 2013
-
-**Resumo:** Esta pesquisa intenciona documentar e reconstituir a
-história do antigo Paço Municipal -- Casa de Câmara e Cadeia, um marco
-da arquitetura neoclássica de Planaltina, inaugurado em 1932, atual Casa
-do Artesão. Objetiva também avaliar preliminarmente o estado de
-conservação desse edifício.
-
-**Palavras-Chave: Casa de Câmara e Cadeia, Paço Municipal, Arquitetura
-Neoclássica, *Art Déco*, Planaltina, Neocolonial.**
-
-**Sumário**
+# Sumário
 
 [Introdução 3](#introdução)
 
 [Pesquisa Bibliográfica 4](#pesquisa-bibliográfica)
 
-[**1.** **Panorama histórico** 4](#_Toc363278394)
+[**1.** **Panorama histórico** 4](#Toc363278394)
 
 [**1.1** **A Origem das Casas de Câmara e Cadeia e a organização
-municipal em Portugal e no Brasil** 4](#_Toc363278396)
+municipal em Portugal e no Brasil** 4](#Toc363278396)
 
 [**1.2** **Primeiras vilas brasileiras: localização e construção das
-Casas de Câmara e Cadeia** 5](#_Toc363278397)
+Casas de Câmara e Cadeia** 5](#Toc363278397)
 
-[**1.3** **Programa** 6](#_Toc363278398)
+[**1.3** **Programa** 6](#Toc363278398)
 
-[**1.4** **Sistemas construtivos** 9](#_Toc363278399)
+[**1.4** **Sistemas construtivos** 9](#Toc363278399)
 
-[**1.6** **Composição das Casas de Câmara e Cadeia** 12](#_Toc361786171)
+[**1.6** **Composição das Casas de Câmara e Cadeia** 12](#Toc361786171)
 
 [Reconstituição Histórica 14](#reconstituição-histórica)
 
-[**1.** **Contexto histórico** 14](#_Toc363278408)
+[**1.** **Contexto histórico** 14](#Toc363278408)
 
-[**2.** **O Paço Municipal** 15](#_Toc363278412)
+[**2.** **O Paço Municipal** 15](#Toc363278412)
 
 [Levantamento Físico 17](#levantamento-físico)
 
-[**1.** **Situação atual do edifício** 17](#_Toc363278414)
+[**1.** **Situação atual do edifício** 17](#Toc363278414)
 
-[**2.** **Estado de conservação** 17](#_Toc363278418)
+[**2.** **Estado de conservação** 17](#Toc363278418)
 
 [Pesquisa de Arquivo 19](#pesquisa-de-arquivo)
 
-[**1.** **Pesquisa, documentação e arquivamento** 19](#_Toc363278427)
+[**1.** **Pesquisa, documentação e arquivamento** 19](#Toc363278427)
 
 [Conclusão 20](#conclusão)
 
 [Bibliografia 21](#bibliografia)
 
- Introdução
+Introdução
 ==========
 
 O reconhecimento do valor histórico do centro da cidade de Planaltina se
@@ -95,7 +98,7 @@ levantamento físico.
 Pesquisa Bibliográfica
 ======================
 
-1.  []{#_Toc363278394 .anchor}**Panorama histórico**
+## Panorama histórico
 
 Para fins de contextualização do Paço Municipal de Planaltina no âmbito
 de sua tipologia arquitetônica, traçou-se um breve panorama ao longo do
@@ -105,7 +108,7 @@ Nacional. Sua pesquisa é fundamentada em apontamentos, em termos de
 arrematação e de louvação e, principalmente, em atas de câmara -- todos
 documentos originais.
 
-1.  []{#_Toc363278396 .anchor}**A Origem das Casas de Câmara e Cadeia e
+1.  []{#Toc363278396 .anchor}**A Origem das Casas de Câmara e Cadeia e
     a organização municipal em Portugal e no Brasil**
 
 A sede da administração e da justiça, à época da comuna medieval, era
@@ -198,7 +201,7 @@ colônias-agrícolas-penitenciárias, e em 1854, se advogava o regime da
 Pensilvânia. Sumariamente, até o período da República, a sede da
 administração e da justiça no Brasil era a Casa de Câmara e Cadeia.
 
-2.  []{#_Toc363278397 .anchor}**Primeiras vilas brasileiras: localização
+2.  []{#Toc363278397 .anchor}**Primeiras vilas brasileiras: localização
     e construção das Casas de Câmara e Cadeia**
 
 Ao longo do século XV, em Portugal, as cidades se caracterizavam por
@@ -260,7 +263,7 @@ entulhos, enquanto os indígenas trabalhavam bem em cortes de madeira e
 transportes. Os serviços de pedreiro, carapina e pintura eram
 normalmente feitos por oficiais mecânicos.
 
-3.  []{#_Toc363278398 .anchor}**Programa**
+## Programa
 
 A distribuição dos espaços na tipologia edilícia em questão visava
 satisfazer as necessidades de serviços administrativos e judiciais,
@@ -399,7 +402,7 @@ aniversários importantes. A praça da Câmara era também onde os
 mercadores firmavam suas tendas e barracas em dias de feira e onde a
 população preparava festejos a cavalo.
 
-4.  []{#_Toc363278399 .anchor}**Sistemas construtivos**
+## Sistemas construtivos
 
 Os sistemas construtivos empregados na fábrica das Casas de Câmara e
 Cadeia -- os mesmos dos demais "monumentos" da colônia -- agregavam as
@@ -576,7 +579,7 @@ século XIX, sua função. A ornamentação e os contrastes cromáticos
 deixaram de aparecer com frequência, concentrando-se em detalhes tímidos
 de frontões, por exemplo.
 
-6.  []{#_Toc361786171 .anchor}**Composição das Casas de Câmara e
+6.  []{#Toc361786171 .anchor}**Composição das Casas de Câmara e
     Cadeia**
 
 Primeiramente, devem ser notadas as Casas de Câmara e Cadeia de um só
@@ -663,7 +666,7 @@ mais as autorizam e enobrecem" (BARRETO, 1947).
 Reconstituição Histórica
 ========================
 
-1.  []{#_Toc363278408 .anchor}**Contexto histórico**
+## Contexto histórico
 
 O sítio onde se implanta Planaltina atualmente pertenceu, até 1837, à
 vila de Santa Luzia -- hoje Luziânia. O arraial de Mestre d'Armas --
@@ -717,7 +720,7 @@ construídos o Fórum, o Paço Municipal e a Cadeia Pública na Avenida
 Marechal Deodoro, e em 1932, foram oficialmente inaugurados o Fórum, a
 Prefeitura e a Cadeia Pública na mesma avenida.
 
-2.  []{#_Toc363278412 .anchor}**O Paço Municipal**
+## O Paço Municipal
 
 Inaugurada em 1932, a antiga Casa de Câmara e Cadeia de Planaltina,
 originalmente, era uma construção de cunho administrativo. Era costume
@@ -806,12 +809,10 @@ funcionários, eram distribuídos aos fundos, no pavimento superior --
 justifica-se tal zoneamento até mesmo por não haver indícios de alçapões
 sobre as salas carcerárias.
 
-.
-
 Levantamento Físico
 ===================
 
-1.  []{#_Toc363278414 .anchor}**Situação atual do edifício**
+## Situação atual do edifício
 
 O edifício da Casa do Artesão, antigo Paço Municipal, é caracterizado
 por uma planta compacta, com ocupação central no terreno e está
@@ -840,7 +841,7 @@ depósito e melhora nos blocos anexos. Os principais frequentadores são
 os próprios artesãos, os quais recebem, algumas vezes, aprendizes e
 visitantes.
 
-2.  []{#_Toc363278418 .anchor}**Estado de conservação**
+## Estado de conservação
 
 A Casa do Artesão encontra-se em péssimas condições, na medida em que
 não existe manutenção local. Os problemas mais urgentes residem em
@@ -902,7 +903,7 @@ na Casa para assegurar a integridade dos produtos armazenados.
 Pesquisa de Arquivo
 ===================
 
-1.  []{#_Toc363278427 .anchor}**Pesquisa, documentação e arquivamento**
+## Pesquisa, documentação e arquivamento
 
 Para subsidiar a preservação do patrimônio histórico material, é
 necessária a preservação da sua documentação, a fim de reconstituir o
@@ -1047,11 +1048,3 @@ histórico-crítica sobre a fundação da cidade*, Brasília, Edição própria,
 
 VASCONCELLOS, Sylvio de. *Arquitetura no Brasil: sistemas construtivos*.
 Belo Horizonte: Universidade Federal de Minas Gerais, 1979.
-
-[^1]: Casa do Artesão de Planaltina. Fonte: acervo pessoal.
-
-[^2]: Graduando em Arquitetura e Urbanismo pela Universidade de Brasília
-    e bolsista pelo CNPq.
-
-[^3]: Professor Adjunto do Departamento de Teoria e História da
-    Arquitetura e Urbanismo da Universidade de Brasília.
