@@ -108,8 +108,7 @@ Nacional. Sua pesquisa é fundamentada em apontamentos, em termos de
 arrematação e de louvação e, principalmente, em atas de câmara -- todos
 documentos originais.
 
-1.  []{#Toc363278396 .anchor}**A Origem das Casas de Câmara e Cadeia e
-    a organização municipal em Portugal e no Brasil**
+## A Origem das Casas de Câmara e Cadeia e a organização municipal em Portugal e no Brasil
 
 A sede da administração e da justiça, à época da comuna medieval, era
 localizada sempre em lugar de honra na cidade -- na praça central ou do
@@ -201,8 +200,7 @@ colônias-agrícolas-penitenciárias, e em 1854, se advogava o regime da
 Pensilvânia. Sumariamente, até o período da República, a sede da
 administração e da justiça no Brasil era a Casa de Câmara e Cadeia.
 
-2.  []{#Toc363278397 .anchor}**Primeiras vilas brasileiras: localização
-    e construção das Casas de Câmara e Cadeia**
+## Primeiras vilas brasileiras: localização e construção das Casas de Câmara e Cadeia
 
 Ao longo do século XV, em Portugal, as cidades se caracterizavam por
 muralhas que envolviam as habitações, amontoadas em ruas estreitas e
@@ -532,7 +530,7 @@ construção empregados -- a taipa, os esteios, o adobe e a pedra, por
 exemplo, já constituíam, por eles próprios, módulos e perfis de
 composição.
 
-5.  **Detalhes Construtivos**
+## Detalhes Construtivos
 
 Nas construções de taipa, era normal que a execução dos alicerces também
 fosse em terra apiloada. A espessura das paredes costumava variar entre
@@ -579,8 +577,7 @@ século XIX, sua função. A ornamentação e os contrastes cromáticos
 deixaram de aparecer com frequência, concentrando-se em detalhes tímidos
 de frontões, por exemplo.
 
-6.  []{#Toc361786171 .anchor}**Composição das Casas de Câmara e
-    Cadeia**
+## Composição das Casas de Câmara e Cadeia
 
 Primeiramente, devem ser notadas as Casas de Câmara e Cadeia de um só
 pavimento, como a de Araracruz -- construção da segunda metade do século
